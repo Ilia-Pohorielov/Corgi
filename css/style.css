@@ -19,7 +19,7 @@ img {
     max-width: 100%;
     height: auto;
 }
-::-webkit-input-placeholder {color:#000; font-size: 14px;}
+::-webkit-input-placeholder {color:#333; font-size: 14px;}
 ::-moz-placeholder          {color:#333; font-size: 14px;}
 :-moz-placeholder           {color:#333; font-size: 14px;}
 :-ms-input-placeholder      {color:#333; font-size: 14px;}
@@ -53,7 +53,7 @@ header .wrap {
     font-size: 55px;
     text-align: center;
     text-shadow: 0 2px 2px #000;
-    z-index: 2px;
+    z-index: 2;
 }
 .title span {
     color: #ee7729;
